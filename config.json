@@ -1,8 +1,13 @@
 {
-  "source_folder": "%userprofile%\Downloads",
+  "source_folder": "%userprofile%\\Downloads",
   "extension_map": {
     ".jpg": "Attēli",
+    ".png": "Attēli",
     ".pdf": "Dokumenti",
+    ".docx": "Dokumenti",
+    ".zip": "Arhīvi",
+    ".rar": "Arhīvi",
     ".mp3": "Audio",
+    ".mp4": "Video"
   }
 }
