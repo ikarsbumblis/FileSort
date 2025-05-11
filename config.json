@@ -1,0 +1,8 @@
+{
+  "source_folder": "%userprofile%\Downloads",
+  "extension_map": {
+    ".jpg": "Attēli",
+    ".pdf": "Dokumenti",
+    ".mp3": "Audio",
+  }
+}
