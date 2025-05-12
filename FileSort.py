@@ -14,7 +14,7 @@ def ensure_target_folders(base_path, extension_map):
         os.makedirs(full_path, exist_ok=True)
         
 def move_files(config):
-    source = config["source_folder"]
+    source_folder = os.path.expandvars(config["source_folder"])
     ext_map = config["extension_map"]
 
     with open("log.txt", "a", encoding="utf-8") as log:
