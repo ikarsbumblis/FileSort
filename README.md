@@ -14,7 +14,7 @@ Mērķis ir atvieglot failu pārvaldību datorā un novērst nesakārtotu lejupi
 - **`shutil`** – failu pārvietošanai uz citām mapēm.
 - **`datetime`** – žurnālā pieraksta darbību laiku.
 
-Šīs bibliotēkas ir izvēlētas, jo tās ir iebūvētas Python valodā un labi piemērotas darbam ar failu sistēmām.
+Šīs bibliotēkas ir izvēlētas, jo tās ir iebūvētas Python valodā un labi piemērotas koda praktiskajām vajadzībām.
 
 ---
 
