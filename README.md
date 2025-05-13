@@ -9,7 +9,7 @@ Mērķis ir atvieglot failu pārvaldību datorā un novērst nesakārtotu lejupi
 
 ## Izmantotās Python bibliotēkas
 
-- **`os`** – izmantota, lai manipulētu ar failu ceļiem un darbotos ar mapēm.
+- **`os`** – darbs ar failu sistēmu (ceļiem, failu sarakstiem, pārbaudēm).
 - **`json`** – konfigurācijas faila (`config.json`) nolasīšanai.
 - **`shutil`** – failu pārvietošanai uz citām mapēm.
 - **`datetime`** – žurnālā pieraksta darbību laiku.
